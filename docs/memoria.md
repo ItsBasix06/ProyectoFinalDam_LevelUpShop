@@ -1,12 +1,12 @@
 # LevelUp Shop
 
-![Logotipo](img/logo.png)
+![Logotipo](img/Logo.png)
 
 **Proyecto intermodular · 2º Desarrollo de Aplicaciones Multiplataforma**  
 **IES Juan Bosco · Curso 2026-2027**
 
-**Autor/a:** [Tu nombre y apellidos]  
-**Repositorio:** https://github.com/[tu-usuario]/LevelUpShop
+**Autor/a:** Basilio Córdoba Arcas  
+**Repositorio:** https://github.com/ItsBasix06/ProyectoFinalDam_LevelUpShop
 
 ---
 
